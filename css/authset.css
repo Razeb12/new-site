@@ -598,9 +598,6 @@ span {
   left: 40px;
   color: #868686;
 }
-.background-image {
-  display: none;
-}
 
 @media screen and (max-width: 400px) {
   .column {
