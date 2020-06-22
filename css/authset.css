@@ -598,6 +598,9 @@ span {
   left: 40px;
   color: #868686;
 }
+.background-image {
+  display: none;
+}
 
 @media screen and (max-width: 400px) {
   .column {
@@ -614,9 +617,6 @@ span {
     color: #fff;
     width: 284px;
   }
-  .navbar-brand img {
-   display: none;
- }
 
 .custom-radio .custom-control-input:checked ~ .custom-control-label::before,
 .custom-radio .custom-control-input:checked ~ .custom-control-label::after {
